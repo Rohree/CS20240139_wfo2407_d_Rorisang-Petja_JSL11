@@ -1,4 +1,4 @@
-# Ken Ben Board - JSS-11 Portfolio Project
+# Ken Ben Board - JSL-11 Portfolio Project
 
 ### Overview
 Ken Ben Board is a task management application showcasing key JavaScript and DOM manipulation skills. It allows users to manage tasks with features like adding, editing, moving, and deleting tasks. The app supports theme switching and ensures data persistence using local storage.
@@ -14,6 +14,11 @@ Ken Ben Board is a task management application showcasing key JavaScript and DOM
 Watch the demo video:  
 [![Watch the demo](https://user-images.githubusercontent.com/47064842/123811018-6b35db80-d8e3-11eb-9a6e-914f462ef7c2.png)](https://www.loom.com/share/85dddadb0ef14a3bbed5d14db53a46f2)  
 *(Click the image or link above to watch the demo)*
+
+### Presentation Slides
+[View Slides](https://www.canva.com/design/DAGSfF80EGA/zlrVnXpXbeYgX63lCLzG-A/view?utm_content=DAGSfF80EGA&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+*(Click link above to view the slides)*
+
 
 ### Installation
 
