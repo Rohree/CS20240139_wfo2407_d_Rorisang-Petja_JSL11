@@ -10,7 +10,7 @@ Ken Ben Board is a task management application showcasing key JavaScript and DOM
 - **Data Persistence**: Tasks are stored in local storage to persist after page reload.
 - **Interactive Task Editing**: Real-time DOM manipulation for task updates.
 
-### Demo
+### Loom Demo Video
 Watch the demo video:  
 [![Watch the demo](https://user-images.githubusercontent.com/47064842/123811018-6b35db80-d8e3-11eb-9a6e-914f462ef7c2.png)](https://www.loom.com/share/85dddadb0ef14a3bbed5d14db53a46f2)  
 *(Click the image or link above to watch the demo)*
