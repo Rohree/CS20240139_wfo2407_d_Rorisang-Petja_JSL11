@@ -27,7 +27,7 @@ Watch the demo video:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/ken-ben-board.git
+    git clone <this repo>
     ```
 2. Navigate to the project directory:
     ```bash
