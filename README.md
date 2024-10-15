@@ -9,6 +9,9 @@ Ken Ben Board is a task management application showcasing key JavaScript and DOM
 - **Sidebar Management**: Responsive sidebar for easy navigation.
 - **Data Persistence**: Tasks are stored in local storage to persist after page reload.
 - **Interactive Task Editing**: Real-time DOM manipulation for task updates.
+- 
+### Live Website 
+[![Watch the demo]([https://user-images.githubusercontent.com/47064842/123811018-6b35db80-d8e3-11eb-9a6e-914f462ef7c2.png)](https://kanbanbaordrorydev.netlify.app/)] 
 
 ### Loom Demo Video
 Watch the demo video:  
